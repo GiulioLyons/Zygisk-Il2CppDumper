@@ -5,6 +5,6 @@
 #ifndef ZYGISK_IL2CPPDUMPER_GAME_H
 #define ZYGISK_IL2CPPDUMPER_GAME_H
 
-#define GamePackageName "com.fengiiley.frlegends"
+#define GamePackageName "com.bethsoft.falloutshelter"
 
 #endif //ZYGISK_IL2CPPDUMPER_GAME_H
